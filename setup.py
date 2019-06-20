@@ -5,5 +5,6 @@ setup(name="simplemath",
 	description="Simple Math Module",
 	author="Richard Camuccio",
 	author_email="rcamuccio@gmail.com",
-	py_modules=["simplemath", ]
+	py_modules=["simplemath", ],
+	test_suite="tests"
 	)
