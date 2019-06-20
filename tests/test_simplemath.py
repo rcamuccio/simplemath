@@ -16,8 +16,7 @@ class TestSimpleMath(unittest.TestCase):
 		self.assertEqual(ret, "ab")
 
 	def test_main(self):
-		ret = sm.main()
-		self.assertEqual(ret, 4)
+		sm.main()
 
 if __name__ == "__main__":
 	unittest.main()
