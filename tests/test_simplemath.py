@@ -15,5 +15,9 @@ class TestSimpleMath(unittest.TestCase):
 		ret = sm.add("a", "b")
 		self.assertEqual(ret, "ab")
 
+	def test_main(self):
+		ret = sm.main()
+		self.assertEqual(ret, 4)
+
 if __name__ == "__main__":
 	unittest.main()
