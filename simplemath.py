@@ -7,6 +7,8 @@ Author: Richard Camuccio
 Copyright 2019
 """
 
+__version__ = "1.0"
+
 MAX_ITER = 20
 "Docstring appears under global variables"
 
