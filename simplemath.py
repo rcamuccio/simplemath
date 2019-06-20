@@ -9,5 +9,16 @@
 # simplemath.py
 #
 
-ret = 2 + 2
-print(ret)
+def add(a, b):
+
+	c = a + b
+
+	return c
+
+def main():
+
+	print(add(2, 2))
+
+if __name__ == "__main__":
+
+	main()
