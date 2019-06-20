@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/rcamuccio/simplemath.svg?branch=master)](https://travis-ci.org/rcamuccio/simplemath)
-
 [![codecov](https://codecov.io/gh/rcamuccio/simplemath/branch/master/graph/badge.svg)](https://codecov.io/gh/rcamuccio/simplemath)
 
 # Simple Math
