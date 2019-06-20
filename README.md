@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rcamuccio/simplemath.svg?branch=master)](https://travis-ci.org/rcamuccio/simplemath)
+
 # Simple Math
 
 Module to learn Python package system. Simple Math lets you add two numbers.
